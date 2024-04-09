@@ -1,5 +1,7 @@
+import { Button } from "@/components/ui/button";
+
 export default function SignIn() {
   return (
-    <div>signin</div>
+    <Button>Entrar</Button>
   )
 }
